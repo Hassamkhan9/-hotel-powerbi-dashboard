@@ -2,6 +2,7 @@
 
 A 3-page interactive Power BI dashboard built on 
 119,000+ real hotel bookings from 2015–2017.
+![Dashboard Preview](dashboard-preview.png)
 
 ## Pages
 
